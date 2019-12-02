@@ -59,11 +59,11 @@ arbel <- new_method("arbel", "Arbel et. al",
                       if (p == 2) {
                         
                         get_shannon <- function(my_matrix) {
-                          my_matrix %>% apply(1, DivNet::shannon_true)
+                          my_matrix %>% apply(1, breakaway::true_shannon)
                         }
                         
                         get_simpson <- function(my_matrix) {
-                          my_matrix %>% apply(1, DivNet::simpson_true)
+                          my_matrix %>% apply(1, breakaway::true_simpson)
                         }
                         
                         output <- DepGEM::gibbs(n.iter=500, Y = draw, X = model$my_x[,2])

@@ -3,6 +3,8 @@
 mse_loss_shannon <- new_metric("mse_loss_shannon", "MSE for estimating Shannon",
                                metric = function(model, out) {
                                  if (is.na(out$shannon) %>% any) {
+                                   print(paste("out$shannon:", out$shannon))
+                                   stop("oh no! NA for shannon!")
                                    NA
                                  } else if ((model$shannon %>% length) != (out$shannon %>% length)) {
                                    print(paste("model$shannon:", model$shannon))
@@ -20,6 +22,14 @@ mse_loss_shannon <- new_metric("mse_loss_shannon", "MSE for estimating Shannon",
                                    (model$shannon - out$shannon)^2 %>% mean
                                  }
                                })
+
+
+mse_loss_shannon_lv <- new_metric("mse_loss_shannon_lv", "MSE for estimating one Shannon",
+                                  metric = function(model, out) {
+                                    stopifnot(length(out$shannon) == 1)
+                                    (model$shannon - out$shannon)^2 
+                                    
+                                  })
 
 estimated_shannon <- new_metric("estimated_shannon", "estimated_shannon",
                                 metric = function(model, out) {

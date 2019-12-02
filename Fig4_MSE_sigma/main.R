@@ -28,12 +28,11 @@ source("../simulator_files/method_functions.R")
 source("../simulator_files/method_functions_secondary.R")
 source("../simulator_files/eval_functions.R")
 
-
 ###########################################################################
 ########################## alpha diversity -- sigma_max ###############
 ###########################################################################
 sim_alpha_sigma_max <- new_simulation(name = "sigma-max",
-                                      label = "Estimating diversity varying sigma_max") %>%
+                                      label = "Varying sigma_max") %>%
   generate_model(make_aitchison, 
                  seed = 191119,
                  n = 20,
@@ -43,19 +42,14 @@ sim_alpha_sigma_max <- new_simulation(name = "sigma-max",
                  sigma_max = as.list(c(0.1, 5, 10, 15)),
                  beta_sd = 1,
                  vary_along = c("sigma_max")) %>%
-  simulate_from_model(nsim = 100)  
-
-sim_alpha_sigma_max_methods <- sim_alpha_sigma_max %>%
+  simulate_from_model(nsim = 100) %>%
   run_method(list(chao_shen,
                   divnet_method,
                   arbel,
                   inext,
                   plug,
                   plug_add_half), 
-             parallel = list(socket_names = 6)) 
-saveRDS(sim_alpha_sigma_max_methods, file="sim_alpha_sigma_max_methods.RDS")
-
-sim_alpha_sigma_max_evals <- sim_alpha_sigma_max_methods %>% 
+             parallel = list(socket_names = 6)) %>% 
   evaluate(list(mse_loss_shannon, 
                 mse_loss_simpson, 
                 mse_loss_euclidean, 
@@ -63,107 +57,138 @@ sim_alpha_sigma_max_evals <- sim_alpha_sigma_max_methods %>%
                 mse_loss_bray_curtis_subset, 
                 mse_loss_euclidean_subset)) 
 
-my_data_frame <- sim_alpha_sigma_max_evals %>% evals %>% as.data.frame
+# saveRDS(sim_alpha_sigma_max, file="sim_alpha_sigma_max.RDS")
+# sim_alpha_sigma_max <- readRDS(file="sim_alpha_sigma_max.RDS")
 
-sms <- my_data_frame$Model %>% 
-  as.character %>% 
-  strsplit("/") %>% 
-  lapply(function(x) x[6]) %>% 
-  unlist %>% 
-  strsplit(split="_") %>% 
-  lapply(function(x) x[3]) %>% 
-  unlist %>% 
-  as.numeric
-
-full_data_frame <- data.frame(my_data_frame, 
-                              "sigma_max" = sms, 
-                              "sigma_max_char" = as.factor(sms),
-                              "sigma_max_method" = paste(sms, "_", my_data_frame$Method, sep = ""))
-
-full_data_frame$Method %>% unique
-full_data_frame$Method <- plyr::revalue(full_data_frame$Method, 
-                                        c("divnet"="Proposed",
-                                          "arbel" = "Arbel et. al",
-                                          "chao-shen" = "Chao & Shen",
-                                          "inext" = "iNEXT",
-                                          "plug-in" = "Multinomial MLE",
-                                          "plug-in-add-half" = "Zero-replace"))
-
-full_data_frame$Method %<>% relevel("Multinomial MLE")
-full_data_frame$Method %<>% relevel("Zero-replace")
-full_data_frame$Method %<>% relevel("Proposed")
-
-full_data_frame %<>%
-  arrange(sigma_max)
-
-full_data_frame %>%
-  select(Method, mse_loss_shannon, sigma_max_char, sigma_max) %>% 
+my_data_frame <- right_join(sim_alpha_sigma_max %>% model %>% as.data.frame, 
+                            sim_alpha_sigma_max %>% evals %>% as.data.frame, 
+                            by = c("name" = "Model"))
+full_data_frame <- my_data_frame %>%
   as_tibble %>%
-  filter(Method == "Arbel et. al", sigma_max > 1)
+  separate(col=name, sep="/", into = c("model", "beta", "n", "p", 
+                                       "q", "sigma_max", "sigma_min")) %>%
+  separate(col = sigma_max, sep = "sigma_max_", into = c("n1", "sigma_max_char")) %>%
+  select(-n1) %>%
+  mutate(Method = plyr::revalue(Method, 
+                                c("divnet"="Proposed",
+                                  "arbel" = "Arbel et. al",
+                                  "chao-shen" = "Chao & Shen",
+                                  "inext" = "iNEXT",
+                                  "plug-in" = "Multinomial MLE",
+                                  "plug-in-add-half" = "Zero-replace")))%>%
+  mutate(sigma_max_char = factor(sigma_max_char, 
+                                    levels = c("0.1", "5", "10", "15"))) %>%
+  mutate(Method = relevel(Method, "Multinomial MLE")) %>%
+  mutate(Method = relevel(Method, "Zero-replace")) %>%
+  mutate(Method = relevel(Method, "Proposed"))
+
+# # # write_csv(x=my_data_frame, path = "sigma_max_df.csv")
+
 shannon_plot <- ggplot(full_data_frame, 
                        aes(x = sigma_max_char, 
                            y = mse_loss_shannon, col = Method)) +
   geom_boxplot(outlier.size=0.1) + 
-  xlab(label=expression(sigma[max]~": Strength of cooccurrences")) +
+  xlab(label=expression(sigma[max]~": Strength of co-occurrences")) +
   ylab("MSE: Shannon index")  +
   theme_bw() + 
+  scale_color_manual(breaks = c("Proposed", 
+                                "Multinomial MLE",
+                                "Arbel et. al", 
+                                "Chao & Shen", 
+                                "iNEXT",
+                                "Zero-replace"), 
+                     values = c("Proposed" = "blue",
+                                "Arbel et. al" = "#999999", 
+                                "Chao & Shen" = "#E69F00",
+                                "iNEXT" = "#56B4E9",
+                                "Multinomial MLE" = "red",
+                                "Zero-replace" = "black"))  +
   theme(text = element_text(size = 9),
         panel.border = element_blank(), panel.grid.major = element_blank(),
-        panel.grid.minor = element_blank(), axis.line = element_line(colour = "black")) +
-  scale_color_manual(values=c("blue", "red", "#999999", "#E69F00", "#56B4E9",  "black"))  
+        panel.grid.minor = element_blank(), 
+        axis.line = element_line(colour = "black")) 
 shannon_plot
 
 simpson_plot <- ggplot(full_data_frame, 
-                       aes(x = sigma_max_char, y = mse_loss_simpson, col = Method)) +
+                       aes(x = sigma_max_char, 
+                           y = mse_loss_simpson, col = Method)) +
   geom_boxplot(outlier.size=0.1) + 
-  xlab(label=expression(sigma[max]~": Strength of cooccurrences")) +
-  ylab("MSE: Simpson index") +
+  xlab(label=expression(sigma[max]~": Strength of co-occurrences")) +
+  ylab("MSE: Simpson index")  +
   theme_bw() + 
+  scale_color_manual(breaks = c("Proposed", 
+                                "Multinomial MLE",
+                                "Arbel et. al", 
+                                "Chao & Shen", 
+                                "iNEXT",
+                                "Zero-replace"), 
+                     values = c("Proposed" = "blue",
+                                "Arbel et. al" = "#999999", 
+                                "Chao & Shen" = "#E69F00",
+                                "iNEXT" = "#56B4E9",
+                                "Multinomial MLE" = "red",
+                                "Zero-replace" = "black"))  +
   theme(text = element_text(size = 9),
         panel.border = element_blank(), panel.grid.major = element_blank(),
-        panel.grid.minor = element_blank(), axis.line = element_line(colour = "black")) +
-  scale_color_manual(values=c("blue", "red", "#999999", "#E69F00", "black")) 
+        panel.grid.minor = element_blank(), 
+        axis.line = element_line(colour = "black")) 
 simpson_plot
 
 bc_plot <- ggplot(full_data_frame, 
-                  aes(x = sigma_max_char, y = mse_loss_bray_curtis, col = Method)) +
+                  aes(x = sigma_max_char, 
+                      y = mse_loss_bray_curtis, col = Method)) +
   geom_boxplot(outlier.size=0.1) + 
-  xlab(label=expression(sigma[max]~": Strength of cooccurrences")) +
-  ylab("Log MSE: Bray-Curtis index") +
+  xlab(label=expression(sigma[max]~": Strength of co-occurrences")) +
+  ylab("MSE: Bray-Curtis index") +
   theme_bw() + 
+  scale_color_manual(breaks = c("Proposed", 
+                                "Multinomial MLE",
+                                "Arbel et. al", 
+                                "Chao & Shen", 
+                                "iNEXT",
+                                "Zero-replace"), 
+                     values = c("Proposed" = "blue",
+                                "Arbel et. al" = "#999999", 
+                                "Chao & Shen" = "#E69F00",
+                                "iNEXT" = "#56B4E9",
+                                "Multinomial MLE" = "red",
+                                "Zero-replace" = "black"))  +
   theme(text = element_text(size = 9),
         panel.border = element_blank(), panel.grid.major = element_blank(),
-        panel.grid.minor = element_blank(), axis.line = element_line(colour = "black")) +
-  scale_color_manual(values=c("blue", "red", "#999999", "#E69F00", "#56B4E9"))  
+        panel.grid.minor = element_blank(), 
+        axis.line = element_line(colour = "black")) 
 bc_plot
 
 euc_plot <- ggplot(full_data_frame, 
                    aes(x = sigma_max_char, 
-                       y = mse_loss_euclidean_subset, col = Method)) +
+                       y = mse_loss_euclidean, col = Method)) +
   geom_boxplot(outlier.size=0.1) + 
-  xlab(label=expression(sigma[max]~": Strength of cooccurrences")) +
-  ylab("Log MSE: Euclidean index") +
+  xlab(label=expression(sigma[max]~": Strength of co-occurrences")) +
+  ylab("MSE: Euclidean index") +
   theme_bw() + 
+  scale_color_manual(breaks = c("Proposed", 
+                                "Multinomial MLE",
+                                "Arbel et. al", 
+                                "Chao & Shen", 
+                                "iNEXT",
+                                "Zero-replace"), 
+                     values = c("Proposed" = "blue",
+                                "Arbel et. al" = "#999999", 
+                                "Chao & Shen" = "#E69F00",
+                                "iNEXT" = "#56B4E9",
+                                "Multinomial MLE" = "red",
+                                "Zero-replace" = "black"))  +
   theme(text = element_text(size = 9),
         panel.border = element_blank(), panel.grid.major = element_blank(),
-        panel.grid.minor = element_blank(), axis.line = element_line(colour = "black")) +
-  scale_color_manual(values=c("blue", "red", "#999999", "#E69F00", "#56B4E9")) 
+        panel.grid.minor = element_blank(), 
+        axis.line = element_line(colour = "black")) 
 euc_plot
-
-time_plot <- ggplot(full_data_frame, 
-                    aes(x = sigma_max_char, y = time, col = Method)) +
-  geom_boxplot(outlier.size=0.1) + 
-  xlab(label=expression(sigma[max]~": Strength of cooccurrences")) +
-  ylab("Mean computational time (seconds)")+
-  theme_bw() + 
-  theme(panel.border = element_blank(), panel.grid.major = element_blank(),
-        panel.grid.minor = element_blank(), axis.line = element_line(colour = "black")) +
-  scale_color_manual(values=c("blue", "red", "#999999", "#E69F00", "#56B4E9", "black")) 
-time_plot
 
 ggpubr::ggarrange(shannon_plot, 
                   simpson_plot, 
                   bc_plot, 
                   euc_plot, ncol=2, nrow=2, 
                   common.legend = T, legend="right")
+ggsave("vary_sigma_max.pdf", 
+       width=5.5, height = 3.5)
 
