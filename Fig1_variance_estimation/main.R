@@ -621,5 +621,5 @@ ggpubr::ggarrange(var_shannon,
                   var_bc, var_diff_bc, 
                   ncol=2, nrow=2, common.legend = TRUE, legend="bottom")
 
-ggsave("larger_variance_estimation_clean.pdf", width=8, height = 6)
-save.image("end_variance_plots.RData")
+# ggsave("larger_variance_estimation_clean.pdf", width=8, height = 6)
+# save.image("end_variance_plots.RData")
