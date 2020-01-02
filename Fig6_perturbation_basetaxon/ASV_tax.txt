@@ -1,0 +1,1543 @@
+	Domain	Phylum	Class	Order	Family	Genus	Species
+ASV_3	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_1	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_4	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Limimonas	Limimonas_halophila
+ASV_2	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	
+ASV_6	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium	
+ASV_5	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_8	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_7	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	
+ASV_9	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhodobiaceae	Methyloligella	Methyloligella_solikamskensis
+ASV_10	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_11	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_12	Bacteria						
+ASV_15	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_13	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_14	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_16	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_17	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_18	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_20	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales			
+ASV_19	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_21	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	
+ASV_22	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium	
+ASV_23	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_24	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_25	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Flammeovirgaceae	Fulvivirga	
+ASV_26	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_29	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Skermanella	Skermanella_aerolata
+ASV_28	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_27	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_30	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_33	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_32	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pedomicrobium	Pedomicrobium_manganicum
+ASV_34	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Salinicola	Salinicola_salarius
+ASV_31	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_35	Bacteria	Acidobacteria	Acidobacteria_Gp17	Gp17			
+ASV_36	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	
+ASV_38	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_37	Bacteria	Proteobacteria					
+ASV_39	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_40	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	
+ASV_41	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_42	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales			
+ASV_43	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_45	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_44	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Lacibacterium	Lacibacterium_aquatile
+ASV_46	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_47	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_48	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_52	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_49	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_50	Bacteria	Proteobacteria					
+ASV_51	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_53	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_55	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Desulfuromonadaceae	Desulfuromonas	
+ASV_54	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae		
+ASV_56	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Flammeovirgaceae		
+ASV_57	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_59	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_58	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_61	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_60	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_62	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_63	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_64	Bacteria	Firmicutes					
+ASV_65	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_66	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_67	Bacteria	Acidobacteria	Acidobacteria_Gp9	Gp9			
+ASV_68	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_69	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_70	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_71	Bacteria	Firmicutes					
+ASV_72	Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosospira	Nitrosospira_multiformis
+ASV_73	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	
+ASV_74	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Skermanella	Skermanella_aerolata
+ASV_76	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_75	Bacteria						
+ASV_77	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_78	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_79	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	
+ASV_82	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_80	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_81	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_83	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Pelagibius	Pelagibius_litoralis
+ASV_84	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_85	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_86	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_87	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_88	Bacteria	Acidobacteria	Acidobacteria_Gp21	Gp21			
+ASV_90	Bacteria	Acidobacteria	Acidobacteria_Gp21	Gp21			
+ASV_89	Bacteria	Firmicutes					
+ASV_91	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_92	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Aminobacter	Aminobacter_aganoensis
+ASV_93	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_94	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_96	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_95	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_97	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_98	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_99	Bacteria						
+ASV_101	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Flammeovirgaceae		
+ASV_100	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales			
+ASV_102	Bacteria						
+ASV_104	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_103	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus_taiwanensis
+ASV_105	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Erythrobacter	Erythrobacter_pelagi
+ASV_108	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_106	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Ectothiorhodospiraceae		
+ASV_107	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_109	Bacteria	Acidobacteria					
+ASV_110	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	
+ASV_111	Bacteria	Actinobacteria	Actinobacteria	Solirubrobacterales			
+ASV_113	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_112	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_114	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Aminobacter	Aminobacter_anthyllidis
+ASV_117	Archaea	Euryarchaeota	Thermoplasmata				
+ASV_116	Bacteria	Proteobacteria					
+ASV_115	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_118	Bacteria	Proteobacteria					
+ASV_119	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_121	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_120	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halomonas	Halomonas_alkaliphila
+ASV_122	Bacteria	Proteobacteria	Gammaproteobacteria	Methylococcales	Methylococcaceae		
+ASV_123	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_124	Bacteria	Acidobacteria	Acidobacteria_Gp9	Gp9			
+ASV_125	Bacteria						
+ASV_126	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhodobiaceae	Methyloligella	Methyloligella_solikamskensis
+ASV_129	Bacteria	Acidobacteria	Acidobacteria_Gp16				
+ASV_128	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pedomicrobium	Pedomicrobium_manganicum
+ASV_127	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_131	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_130	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_133	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_132	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_135	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Saprospiraceae		
+ASV_134	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_136	Bacteria	Proteobacteria	Gammaproteobacteria	Methylococcales	Methylococcaceae		
+ASV_137	Bacteria	Acidobacteria	Acidobacteria_Gp9	Gp9			
+ASV_138	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_139	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia	Massilia_aurea
+ASV_140	Bacteria	Acidobacteria	Acidobacteria_Gp9	Gp9			
+ASV_141	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Cloacibacterium	Cloacibacterium_normanense
+ASV_143	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_142	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_146	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_144	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_145	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_147	Bacteria						
+ASV_148	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_149	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_150	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_152	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_151	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	
+ASV_153	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_154	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Devosia	Devosia_albogilva
+ASV_155	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhodobiaceae	Methyloligella	Methyloligella_solikamskensis
+ASV_157	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_156	Bacteria	Acidobacteria					
+ASV_158	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_159	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia/Shigella	Escherichia_fergusonii
+ASV_160	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_161	Bacteria	Proteobacteria					
+ASV_163	Bacteria						
+ASV_162	Bacteria	Acidobacteria	Acidobacteria_Gp9	Gp9			
+ASV_164	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Loktanella	
+ASV_165	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhodobiaceae	Anderseniella	Anderseniella_baltica
+ASV_166	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_168	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_167	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_169	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Moheibacter	Moheibacter_sediminis
+ASV_170	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas_caeni
+ASV_171	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_172	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_173	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhodobiaceae	Methyloceanibacter	Methyloceanibacter_caenitepidi
+ASV_174	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae		
+ASV_175	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_177	Bacteria	Proteobacteria					
+ASV_176	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	
+ASV_178	Bacteria						
+ASV_179	Bacteria	Acidobacteria	Acidobacteria_Gp9	Gp9			
+ASV_180	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_181	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Rhodothermaceae	Rubrivirga	Rubrivirga_marina
+ASV_182	Bacteria	Proteobacteria	Gammaproteobacteria	Methylococcales	Methylococcaceae		
+ASV_183	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_184	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_185	Bacteria						
+ASV_186	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_187	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_188	Bacteria	Acidobacteria	Acidobacteria_Gp9	Gp9			
+ASV_189	Bacteria						
+ASV_191	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas_lini
+ASV_192	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_190	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiales_incertae_sedis	Tepidimonas	Tepidimonas_fonticaldi
+ASV_193	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_194	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_196	Bacteria	Proteobacteria					
+ASV_195	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_197	Bacteria	Firmicutes					
+ASV_198	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_199	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Idiomarinaceae	Idiomarina	Idiomarina_loihiensis
+ASV_200	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_202	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_204	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_201	Bacteria	Proteobacteria	Gammaproteobacteria	Arenicellales	Arenicellaceae		
+ASV_203	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_205	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_207	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_206	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_208	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_209	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	
+ASV_210	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhodobiaceae	Methyloligella	Methyloligella_solikamskensis
+ASV_211	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_212	Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosospira	
+ASV_213	Bacteria						
+ASV_214	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_215	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_217	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Rhodothermaceae	Salinibacter	
+ASV_218	Bacteria						
+ASV_216	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae_1	Anoxybacillus	
+ASV_219	Bacteria	Proteobacteria	Gammaproteobacteria	Arenicellales	Arenicellaceae	Perspicuibacter	Perspicuibacter_marinus
+ASV_220	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Skermanella	Skermanella_aerolata
+ASV_222	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_221	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_223	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_224	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_225	Bacteria						
+ASV_226	Bacteria	Firmicutes					
+ASV_227	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	
+ASV_228	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	Ralstonia_pickettii
+ASV_229	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_230	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_231	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_232	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_233	Bacteria	Acidobacteria	Acidobacteria_Gp17	Gp17			
+ASV_234	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_235	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_236	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_237	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_238	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	
+ASV_239	Bacteria						
+ASV_240	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Phyllobacterium	Phyllobacterium_myrsinacearum
+ASV_241	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_243	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_242	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_245	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium	Novosphingobium_indicum
+ASV_244	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium	Novosphingobium_nitrogenifigens
+ASV_246	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_247	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_248	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_249	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_250	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_251	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Aurantimonadaceae	Jiella	Jiella_aquimaris
+ASV_253	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Skermanella	Skermanella_aerolata
+ASV_252	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_254	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Alcanivoracaceae	Alcanivorax	Alcanivorax_venustensis
+ASV_255	Bacteria	Acidobacteria	Acidobacteria_Gp10	Gp10			
+ASV_257	Bacteria	Cyanobacteria/Chloroplast	Cyanobacteria				
+ASV_256	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_258	Bacteria						
+ASV_259	Bacteria						
+ASV_261	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_260	Bacteria						
+ASV_263	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Roseovarius	
+ASV_262	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_264	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_265	Bacteria	Acidobacteria	Acidobacteria_Gp2				
+ASV_266	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_269	Archaea	Euryarchaeota	Thermoplasmata				
+ASV_267	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_268	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_270	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_272	Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosospira	Nitrosospira_multiformis
+ASV_271	Bacteria	Actinobacteria	Actinobacteria	Acidimicrobiales			
+ASV_274	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_273	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	
+ASV_276	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_275	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_277	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_278	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_280	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhodobiaceae	Methyloligella	Methyloligella_solikamskensis
+ASV_279	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_281	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae		
+ASV_282	Bacteria	Proteobacteria					
+ASV_283	Bacteria	Firmicutes					
+ASV_284	Bacteria	Acidobacteria	Acidobacteria_Gp10	Gp10			
+ASV_285	Bacteria	Proteobacteria					
+ASV_286	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_287	Bacteria						
+ASV_288	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_289	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_291	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_290	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae		
+ASV_292	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Aurantimonadaceae	Martelella	Martelella_mediterranea
+ASV_293	Bacteria	Proteobacteria					
+ASV_295	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_294	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_296	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Ahrensia	Ahrensia_kielensis
+ASV_297	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_298	Bacteria	Acidobacteria	Acidobacteria_Gp21	Gp21			
+ASV_300	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_299	Bacteria						
+ASV_301	Bacteria						
+ASV_302	Bacteria	Acidobacteria	Acidobacteria_Gp4	Gp4			
+ASV_303	Bacteria	Proteobacteria					
+ASV_304	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_305	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_306	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_307	Bacteria						
+ASV_310	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_311	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_309	Bacteria	Actinobacteria	Actinobacteria	Acidimicrobiales	Iamiaceae	Iamia	Iamia_majanohamensis
+ASV_308	Bacteria	Firmicutes					
+ASV_312	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_313	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_316	Bacteria						
+ASV_314	Bacteria	Acidobacteria	Acidobacteria_Gp17	Gp17			
+ASV_317	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_318	Bacteria	Acidobacteria	Acidobacteria_Gp16				
+ASV_320	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Moritellaceae	Moritella	Moritella_viscosa
+ASV_319	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_321	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhodobiaceae	Methyloceanibacter	Methyloceanibacter_caenitepidi
+ASV_322	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae		
+ASV_323	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_324	Bacteria	Acidobacteria	Acidobacteria_Gp4	Gp4			
+ASV_315	Bacteria	Acidobacteria	Acidobacteria_Gp21				
+ASV_325	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae		
+ASV_327	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_326	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_329	Bacteria	Acidobacteria	Acidobacteria_Gp9	Gp9			
+ASV_328	Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosospira	Nitrosospira_multiformis
+ASV_330	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_331	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_332	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_334	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_333	Bacteria	Proteobacteria					
+ASV_335	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Parasphingopyxis	Parasphingopyxis_lamellibrachiae
+ASV_336	Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosospira	Nitrosospira_multiformis
+ASV_337	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	
+ASV_338	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_339	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_340	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_344	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_342	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Ectothiorhodospiraceae		
+ASV_343	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_341	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_348	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_345	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Rhodothermaceae	Rubrivirga	Rubrivirga_marina
+ASV_347	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_346	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_349	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_352	Bacteria						
+ASV_351	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria_incertae_sedis	Marinicella	Marinicella_litoralis	
+ASV_350	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_353	Bacteria	Firmicutes					
+ASV_354	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium	
+ASV_356	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_355	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_357	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae		
+ASV_358	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_359	Bacteria						
+ASV_360	Bacteria	Actinobacteria	Actinobacteria	Acidimicrobiales			
+ASV_361	Bacteria						
+ASV_362	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_363	Bacteria	Proteobacteria					
+ASV_364	Bacteria						
+ASV_366	Archaea	Euryarchaeota					
+ASV_365	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Alcaligenes	Alcaligenes_faecalis_subsp._parafaecalis
+ASV_367	Bacteria	Acidobacteria	Acidobacteria_Gp17				
+ASV_369	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_368	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_370	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_371	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_372	Bacteria						
+ASV_373	Bacteria	Proteobacteria					
+ASV_375	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_374	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_377	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_376	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	
+ASV_379	Bacteria	Proteobacteria					
+ASV_380	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_378	Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosospira	
+ASV_381	Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosospira	Nitrosospira_multiformis
+ASV_382	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_384	Bacteria						
+ASV_383	Bacteria						
+ASV_386	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_385	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	
+ASV_387	Bacteria	Cyanobacteria/Chloroplast	Chloroplast	Chloroplast	Bacillariophyta		
+ASV_389	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_390	Bacteria	Firmicutes	Bacilli				
+ASV_388	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Ralstonia	Ralstonia_mannitolilytica
+ASV_392	Bacteria	Actinobacteria	Actinobacteria	Solirubrobacterales			
+ASV_391	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_394	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_393	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_396	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_397	Bacteria						
+ASV_395	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_398	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_399	Bacteria						
+ASV_400	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_401	Bacteria	Proteobacteria					
+ASV_403	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Hyphomonas	Hyphomonas_neptunium
+ASV_402	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Rhodothermaceae		
+ASV_406	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_405	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Ectothiorhodospiraceae		
+ASV_404	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_407	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_408	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11	Candidatus_Pelagibacter		
+ASV_409	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	
+ASV_410	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_411	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadales_incertae_sedis	Psychrobium	Psychrobium_conchae
+ASV_412	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_413	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_414	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_415	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_416	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_417	Bacteria	Firmicutes					
+ASV_418	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_419	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_420	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	
+ASV_421	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pedomicrobium	Pedomicrobium_manganicum
+ASV_422	Bacteria	Deinococcus-Thermus	Deinococci	Thermales	Thermaceae	Thermus	Thermus_scotoductus
+ASV_424	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_423	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Morococcus	
+ASV_425	Bacteria	Proteobacteria	Alphaproteobacteria	Alphaproteobacteria_incertae_sedis			
+ASV_427	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_426	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_428	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_429	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_430	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_431	Bacteria	Acidobacteria	Acidobacteria_Gp21	Gp21			
+ASV_433	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Pirellula	Pirellula_staleyi
+ASV_432	Bacteria						
+ASV_434	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_436	Bacteria						
+ASV_437	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_435	Bacteria						
+ASV_438	Bacteria						
+ASV_441	Bacteria	Proteobacteria	Alphaproteobacteria	Sneathiellales	Sneathiellaceae		
+ASV_440	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_439	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Flammeovirgaceae		
+ASV_442	Bacteria	Acidobacteria					
+ASV_443	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_447	Bacteria	Acidobacteria	Acidobacteria_Gp9	Gp9			
+ASV_446	Bacteria	Proteobacteria					
+ASV_444	Bacteria						
+ASV_445	Bacteria	Proteobacteria					
+ASV_448	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	
+ASV_449	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_452	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_453	Bacteria						
+ASV_450	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales			
+ASV_454	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_455	Bacteria						
+ASV_457	Bacteria	Proteobacteria					
+ASV_451	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_458	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_456	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_459	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_461	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_460	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_462	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_463	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_466	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Trueperaceae	Truepera	Truepera_radiovictrix
+ASV_465	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_464	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_467	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Ectothiorhodospiraceae		
+ASV_471	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11	Candidatus_Pelagibacter		
+ASV_470	Bacteria	Acidobacteria	Acidobacteria_Gp9	Gp9			
+ASV_469	Bacteria						
+ASV_468	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_473	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_474	Bacteria	Acidobacteria	Acidobacteria_Gp26	Gp26			
+ASV_475	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae		
+ASV_472	Bacteria	Actinobacteria	Actinobacteria	Acidimicrobiales			
+ASV_476	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_477	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_479	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_478	Bacteria	Proteobacteria					
+ASV_480	Bacteria						
+ASV_482	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_481	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_483	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_486	Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosospira	
+ASV_487	Bacteria	Cyanobacteria/Chloroplast	Cyanobacteria	Family_II	GpIIa		
+ASV_485	Bacteria	Acidobacteria	Acidobacteria_Gp9	Gp9			
+ASV_484	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_489	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Flammeovirgaceae	Fabibacter	
+ASV_488	Bacteria						
+ASV_491	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_490	Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosospira	Nitrosospira_multiformis
+ASV_494	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_492	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_495	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_493	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_497	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_496	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_499	Bacteria						
+ASV_498	Bacteria	Acidobacteria	Acidobacteria_Gp16				
+ASV_501	Bacteria	Poribacteria					
+ASV_500	Bacteria	Actinobacteria	Actinobacteria	Acidimicrobiales	Acidimicrobiaceae	Ilumatobacter	
+ASV_502	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_503	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_506	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_504	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	
+ASV_505	Bacteria	Proteobacteria					
+ASV_507	Bacteria	Acidobacteria	Acidobacteria_Gp6	Gp6			
+ASV_508	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	
+ASV_510	Bacteria	Acidobacteria	Acidobacteria_Gp2				
+ASV_509	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_513	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_511	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_512	Bacteria	Proteobacteria					
+ASV_514	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Pirellula	Pirellula_staleyi
+ASV_515	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_517	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_516	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_518	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae		
+ASV_519	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_520	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_521	Bacteria	Acidobacteria	Acidobacteria_Gp9				
+ASV_522	Bacteria	Acidobacteria	Acidobacteria_Gp10				
+ASV_523	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium	
+ASV_524	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae		
+ASV_525	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Haliangiaceae	Haliangium	Haliangium_ochraceum
+ASV_526	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_527	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_528	Bacteria						
+ASV_529	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_530	Bacteria						
+ASV_531	Bacteria						
+ASV_532	Bacteria	Firmicutes					
+ASV_533	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Pelagibius	Pelagibius_litoralis
+ASV_534	Bacteria	Acidobacteria					
+ASV_535	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_536	Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	Methanosarcinaceae	Methanolobus	Methanolobus_profundi
+ASV_537	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_538	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae_1	Anoxybacillus	
+ASV_540	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_539	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae		
+ASV_541	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae		
+ASV_542	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	
+ASV_543	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_545	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_544	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_547	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_546	Bacteria						
+ASV_548	Bacteria	Proteobacteria					
+ASV_549	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_550	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium	
+ASV_551	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_553	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_552	Bacteria	Acidobacteria	Acidobacteria_Gp2				
+ASV_555	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_554	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhodobiaceae		
+ASV_557	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_556	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	
+ASV_558	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_559	Bacteria	Acidobacteria	Acidobacteria_Gp9	Gp9			
+ASV_560	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Micrococcaceae	Micrococcus	Micrococcus_luteus
+ASV_561	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Corynebacteriaceae	Corynebacterium	Corynebacterium_tuberculostearicum
+ASV_562	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae		
+ASV_563	Bacteria	Proteobacteria					
+ASV_564	Bacteria						
+ASV_565	Bacteria						
+ASV_566	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhodobiaceae	Anderseniella	Anderseniella_baltica
+ASV_568	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_567	Bacteria	Acidobacteria	Acidobacteria_Gp10	Gp10			
+ASV_569	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_570	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_571	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_572	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_573	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_575	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_574	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_576	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_577	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_578	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_579	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_580	Bacteria	Acidobacteria	Acidobacteria_Gp7				
+ASV_581	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_582	Bacteria						
+ASV_583	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Pseudoxanthomonas	Pseudoxanthomonas_taiwanensis
+ASV_584	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium	Faecalibacterium_prausnitzii
+ASV_585	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_586	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	
+ASV_587	Bacteria	Proteobacteria	Alphaproteobacteria	Parvularculales	Parvularculaceae	Parvularcula	Parvularcula_bermudensis
+ASV_588	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_589	Bacteria	Proteobacteria					
+ASV_590	Bacteria	Proteobacteria					
+ASV_591	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_592	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_594	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_593	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_595	Bacteria						
+ASV_596	Bacteria	Acidobacteria	Acidobacteria_Gp6	Gp6			
+ASV_597	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_598	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_600	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_599	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_602	Bacteria						
+ASV_601	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae		
+ASV_603	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Stakelama	Stakelama_pacifica
+ASV_604	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_607	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_606	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae		
+ASV_605	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae		
+ASV_608	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_609	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Litorimonas	Litorimonas_taeanensis
+ASV_610	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_611	Bacteria	Acidobacteria	Acidobacteria_Gp9	Gp9			
+ASV_612	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae		
+ASV_613	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae		
+ASV_614	Bacteria						
+ASV_615	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_616	Bacteria						
+ASV_617	Bacteria	Proteobacteria					
+ASV_618	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_619	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Corynebacteriaceae	Corynebacterium	Corynebacterium_diphtheriae
+ASV_620	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas_agarici
+ASV_621	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11	Candidatus_Pelagibacter		
+ASV_622	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_624	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_623	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_626	Bacteria						
+ASV_625	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_627	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae		
+ASV_628	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_629	Bacteria	Deferribacteres	Deferribacteres	Deferribacterales	Deferribacterales_incertae_sedis	Caldithrix	Caldithrix_palaeochoryensis
+ASV_632	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_631	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_633	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_630	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Rhodothermaceae		
+ASV_636	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_637	Bacteria	Acidobacteria	Acidobacteria_Gp6	Gp6			
+ASV_635	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Ectothiorhodospiraceae		
+ASV_634	Bacteria						
+ASV_639	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Ectothiorhodospiraceae		
+ASV_638	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_640	Bacteria	Proteobacteria					
+ASV_641	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Rhodothermaceae		
+ASV_642	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_643	Bacteria	Firmicutes					
+ASV_644	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_645	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Brevibacteriaceae	Brevibacterium	
+ASV_646	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	
+ASV_647	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Erythrobacter	Erythrobacter_nanhaisediminis
+ASV_649	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_648	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae		
+ASV_650	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales			
+ASV_652	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_651	Bacteria	Acidobacteria	Acidobacteria_Gp4	Gp4			
+ASV_653	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_654	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_655	Bacteria	Firmicutes					
+ASV_656	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_657	Bacteria	Proteobacteria	Gammaproteobacteria	Methylococcales	Methylococcaceae		
+ASV_659	Bacteria						
+ASV_661	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_660	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_658	Bacteria						
+ASV_662	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_664	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_665	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_663	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_668	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_669	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_667	Bacteria	Actinobacteria	Actinobacteria	Acidimicrobiales			
+ASV_666	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_670	Bacteria						
+ASV_672	Bacteria						
+ASV_673	Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosospira	Nitrosospira_multiformis
+ASV_674	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Rhodothermaceae		
+ASV_671	Bacteria	Firmicutes	Bacilli				
+ASV_676	Bacteria	Proteobacteria					
+ASV_675	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_678	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Corynebacteriaceae	Corynebacterium	Corynebacterium_deserti
+ASV_677	Bacteria	Proteobacteria	Gammaproteobacteria	Arenicellales	Arenicellaceae		
+ASV_679	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Dietziaceae	Dietzia	Dietzia_papillomatosis
+ASV_680	Bacteria	Firmicutes	Bacilli	Bacillales	Paenibacillaceae_1	Paenibacillus	
+ASV_681	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae		
+ASV_682	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_685	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_684	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_683	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_686	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_687	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Pseudahrensia	Pseudahrensia_aquimaris
+ASV_690	Bacteria	Actinobacteria	Actinobacteria	Solirubrobacterales			
+ASV_689	Bacteria	Acidobacteria	Acidobacteria_Gp10	Gp10			
+ASV_688	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_691	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_694	Bacteria						
+ASV_693	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Pelagibius	Pelagibius_litoralis
+ASV_692	Bacteria						
+ASV_695	Bacteria						
+ASV_697	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Ekhidna	Ekhidna_lutea
+ASV_696	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thiohalophilus	Thiohalophilus_thiocyanatoxydans
+ASV_698	Bacteria	Proteobacteria					
+ASV_699	Bacteria						
+ASV_700	Bacteria	Actinobacteria	Actinobacteria	Solirubrobacterales			
+ASV_702	Bacteria	Actinobacteria	Actinobacteria	Solirubrobacterales	Conexibacteraceae	Conexibacter	
+ASV_701	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_703	Bacteria	Verrucomicrobia	Spartobacteria				
+ASV_704	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_705	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas_aestusnigri
+ASV_706	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_707	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria_incertae_sedis			
+ASV_708	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_710	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_709	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_711	Bacteria						
+ASV_712	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_713	Bacteria	Firmicutes					
+ASV_714	Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosospira	
+ASV_715	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhodobiaceae		
+ASV_718	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_717	Bacteria	Acidobacteria	Acidobacteria_Gp6	Gp6			
+ASV_716	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_719	Bacteria						
+ASV_722	Bacteria	Acidobacteria	Acidobacteria_Gp16				
+ASV_721	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_720	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_723	Bacteria						
+ASV_725	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_724	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_726	Bacteria	Firmicutes	Clostridia				
+ASV_727	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Oceanibaculum	Oceanibaculum_pacificum
+ASV_728	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_731	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_729	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_730	Bacteria						
+ASV_732	Bacteria						
+ASV_733	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_735	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_734	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_738	Bacteria						
+ASV_736	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter_seifertii
+ASV_737	Bacteria	Proteobacteria					
+ASV_739	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae_1	Bacillus	
+ASV_740	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Aurantimonadaceae	Aurantimonas	Aurantimonas_manganoxydans
+ASV_741	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_742	Bacteria						
+ASV_743	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_745	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_744	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_746	Bacteria	Actinobacteria	Actinobacteria	Acidimicrobiales			
+ASV_749	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_747	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_748	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_750	Bacteria						
+ASV_752	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_751	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae		
+ASV_753	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	
+ASV_754	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_755	Bacteria						
+ASV_756	Bacteria	Acidobacteria	Acidobacteria_Gp4	Gp4			
+ASV_757	Bacteria	Proteobacteria					
+ASV_758	Bacteria						
+ASV_759	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_761	Bacteria						
+ASV_760	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_762	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Gimesia	Gimesia_maris
+ASV_763	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_765	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_764	Bacteria	Proteobacteria					
+ASV_766	Bacteria						
+ASV_767	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_768	Bacteria	Acidobacteria	Acidobacteria_Gp6				
+ASV_769	Bacteria						
+ASV_770	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_771	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Sphingomonas_fennica
+ASV_772	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium	
+ASV_774	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_773	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Erythrobacter	Erythrobacter_pelagi
+ASV_775	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhodobiaceae		
+ASV_777	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_776	Bacteria						
+ASV_778	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_781	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_779	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Haliea	
+ASV_780	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_782	Bacteria	Acidobacteria	Acidobacteria_Gp9	Gp9			
+ASV_783	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_784	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae		
+ASV_785	Bacteria	Proteobacteria					
+ASV_786	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_788	Bacteria	Proteobacteria					
+ASV_787	Bacteria						
+ASV_789	Bacteria	Acidobacteria	Acidobacteria_Gp9	Gp9			
+ASV_790	Bacteria	Acidobacteria	Acidobacteria_Gp21	Gp21			
+ASV_791	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_792	Bacteria	Acidobacteria	Acidobacteria_Gp17	Gp17			
+ASV_793	Bacteria						
+ASV_794	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_795	Bacteria	Proteobacteria	Alphaproteobacteria	Parvularculales	Parvularculaceae	Parvularcula	Parvularcula_bermudensis
+ASV_796	Bacteria						
+ASV_797	Bacteria						
+ASV_798	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_799	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_800	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_801	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_802	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_803	Bacteria	Acidobacteria					
+ASV_804	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhodobiaceae	Methyloligella	Methyloligella_solikamskensis
+ASV_805	Bacteria						
+ASV_806	Bacteria						
+ASV_807	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_808	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_809	Bacteria	Firmicutes					
+ASV_810	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Daeguia	Daeguia_caeni
+ASV_811	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rubellimicrobium	Rubellimicrobium_roseum
+ASV_812	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Flammeovirgaceae		
+ASV_813	Bacteria	Proteobacteria	Gammaproteobacteria	Cardiobacteriales	Cardiobacteriaceae	Cardiobacterium	Cardiobacterium_hominis
+ASV_814	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Ruegeria	Ruegeria_atlantica
+ASV_815	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_816	Bacteria	Acidobacteria	Acidobacteria_Gp10	Gp10			
+ASV_817	Bacteria	Proteobacteria					
+ASV_818	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_820	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae		
+ASV_819	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_lithotrophicum
+ASV_821	Bacteria	Bacteroidetes	Cytophagia	Cytophagales			
+ASV_824	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Flammeovirgaceae	Fabibacter	
+ASV_822	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_823	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_825	Bacteria	Acidobacteria	Acidobacteria_Gp10				
+ASV_826	Bacteria						
+ASV_827	Bacteria	Acidobacteria	Acidobacteria_Gp9	Gp9			
+ASV_828	Bacteria	Actinobacteria	Actinobacteria	Acidimicrobiales			
+ASV_830	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_829	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_831	Bacteria						
+ASV_832	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae		
+ASV_833	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Flammeovirgaceae		
+ASV_834	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_835	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_836	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_837	Bacteria	Proteobacteria					
+ASV_838	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_840	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_839	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_842	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_841	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_843	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Aminobacter	Aminobacter_aganoensis
+ASV_844	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	
+ASV_845	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus_cecorum
+ASV_846	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Nocardioidaceae	Aeromicrobium	Aeromicrobium_halocynthiae
+ASV_847	Bacteria						
+ASV_848	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_849	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Idiomarinaceae	Idiomarina	Pseudidiomarina_homiensis
+ASV_850	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales			
+ASV_851	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_853	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_852	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_854	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_855	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_856	Bacteria	Proteobacteria	Gammaproteobacteria	Methylococcales	Methylococcaceae		
+ASV_857	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_859	Bacteria	Actinobacteria	Actinobacteria				
+ASV_858	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_860	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	
+ASV_861	Bacteria	Acidobacteria	Acidobacteria_Gp9	Gp9			
+ASV_862	Bacteria	Proteobacteria	Betaproteobacteria	Methylophilales	Methylophilaceae	Methylotenera	Methylotenera_versatilis
+ASV_863	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae		
+ASV_865	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	
+ASV_864	Bacteria						
+ASV_867	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_866	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_868	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae		
+ASV_869	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_870	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_871	Bacteria	Firmicutes					
+ASV_872	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_873	Bacteria						
+ASV_874	Bacteria						
+ASV_875	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_876	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiales_incertae_sedis		
+ASV_877	Bacteria	Acidobacteria					
+ASV_878	Bacteria	Proteobacteria					
+ASV_879	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_880	Bacteria	Proteobacteria					
+ASV_881	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_883	Bacteria						
+ASV_882	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	
+ASV_884	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_885	Bacteria						
+ASV_886	Bacteria						
+ASV_887	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_888	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_891	Bacteria	Acidobacteria	Acidobacteria_Gp21	Gp21			
+ASV_889	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_890	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Brevibacteriaceae	Brevibacterium	Brevibacterium_pityocampae
+ASV_892	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Colwelliaceae	Colwellia	Colwellia_piezophila
+ASV_894	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Rhodothermaceae	Rubrivirga	Rubrivirga_marina
+ASV_893	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_895	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhodobiaceae		
+ASV_896	Bacteria	Proteobacteria	Alphaproteobacteria	Parvularculales	Parvularculaceae	Parvularcula	Parvularcula_bermudensis
+ASV_897	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_898	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales			
+ASV_899	Bacteria						
+ASV_900	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_901	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_902	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae		
+ASV_903	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_904	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_905	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_906	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_907	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_908	Bacteria	Proteobacteria	Alphaproteobacteria	Parvularculales	Parvularculaceae	Parvularcula	
+ASV_909	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_911	Bacteria						
+ASV_910	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_913	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_912	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_915	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_914	Bacteria	Proteobacteria	Alphaproteobacteria	Parvularculales	Parvularculaceae	Parvularcula	Parvularcula_bermudensis
+ASV_917	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_916	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_918	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_919	Archaea	Thaumarchaeota					
+ASV_920	Bacteria	Acidobacteria	Acidobacteria_Gp9				
+ASV_921	Bacteria	Acidobacteria	Acidobacteria_Gp21				
+ASV_923	Bacteria	Acidobacteria	Acidobacteria_Gp16				
+ASV_922	Bacteria						
+ASV_924	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_925	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_927	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_926	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_929	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_930	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_931	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_928	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_932	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_935	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_933	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_934	Bacteria						
+ASV_938	Bacteria	Proteobacteria					
+ASV_936	Bacteria	Firmicutes					
+ASV_937	Bacteria	Proteobacteria					
+ASV_939	Bacteria						
+ASV_940	Bacteria						
+ASV_941	Bacteria	Acidobacteria	Acidobacteria_Gp21				
+ASV_942	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_943	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_945	Archaea	Pacearchaeota					
+ASV_944	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_946	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_947	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Pelagibius	Pelagibius_litoralis
+ASV_948	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_949	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Dermabacteraceae	Brachybacterium	Brachybacterium_muris
+ASV_950	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Chelatococcus	Chelatococcus_caeni
+ASV_951	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae		
+ASV_953	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	
+ASV_952	Bacteria	Proteobacteria	Betaproteobacteria	Hydrogenophilales	Hydrogenophilaceae	Tepidiphilus	Tepidiphilus_succinatimandens
+ASV_954	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium	
+ASV_955	Archaea	Pacearchaeota	Pacearchaeota_Incertae_Sedis_AR13				
+ASV_957	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales_Incertae_Sedis_III	Thermoanaerobacterium	Thermoanaerobacterium_thermosulfurigenes
+ASV_956	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae_1	Bacillus	Bacillus_siamensis
+ASV_959	Bacteria						
+ASV_958	Bacteria	Acidobacteria	Acidobacteria_Gp6	Gp6			
+ASV_961	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_960	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae		
+ASV_963	Bacteria	Acidobacteria	Acidobacteria_Gp4				
+ASV_962	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_965	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_964	Bacteria	Proteobacteria					
+ASV_966	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_967	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_969	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_968	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_970	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_971	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_974	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_972	Bacteria	Proteobacteria					
+ASV_973	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_975	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_976	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_978	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_977	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_979	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_980	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_981	Bacteria						
+ASV_982	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	
+ASV_983	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_984	Bacteria	Proteobacteria					
+ASV_985	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_986	Bacteria	Proteobacteria					
+ASV_987	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_988	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_989	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae		
+ASV_990	Bacteria	Proteobacteria					
+ASV_992	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_991	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_993	Bacteria						
+ASV_994	Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosospira	
+ASV_995	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_996	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_997	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_998	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_999	Bacteria						
+ASV_1000	Archaea	Pacearchaeota					
+ASV_1003	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_1002	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_1004	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium	Sphingobacterium_thermophilum
+ASV_1001	Bacteria	Firmicutes					
+ASV_1005	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Sinobacteraceae	Solimonas	Solimonas_aquatica
+ASV_1006	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_1007	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_1008	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria_incertae_sedis			
+ASV_1010	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1009	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	
+ASV_1011	Bacteria	Proteobacteria					
+ASV_1012	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Saprospiraceae	Phaeodactylibacter	Phaeodactylibacter_xiamenensis
+ASV_1013	Bacteria	Actinobacteria	Actinobacteria	Acidimicrobiales	Acidimicrobiaceae	Ferrimicrobium	Ferrimicrobium_acidiphilum
+ASV_1014	Bacteria	Proteobacteria	Alphaproteobacteria	Parvularculales	Parvularculaceae	Parvularcula	Parvularcula_bermudensis
+ASV_1015	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria_incertae_sedis			
+ASV_1016	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Rhodothermaceae	Rubrivirga	Rubrivirga_marina
+ASV_1017	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Rhodopirellula	Rhodopirellula_lusitana
+ASV_1018	Bacteria						
+ASV_1020	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1019	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_1021	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae		
+ASV_1022	Bacteria						
+ASV_1023	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_1024	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1025	Bacteria						
+ASV_1026	Bacteria						
+ASV_1027	Bacteria						
+ASV_1028	Bacteria	Acidobacteria	Acidobacteria_Gp10				
+ASV_1029	Bacteria						
+ASV_1030	Bacteria	Acidobacteria	Acidobacteria_Gp4				
+ASV_1031	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1032	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1033	Bacteria	Chloroflexi					
+ASV_1036	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1034	Bacteria	Firmicutes	Clostridia				
+ASV_1035	Bacteria	Acidobacteria	Acidobacteria_Gp4				
+ASV_1037	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Pirellula	Pirellula_staleyi
+ASV_1039	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1038	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_1040	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1041	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae		
+ASV_1042	Bacteria						
+ASV_1043	Bacteria						
+ASV_1044	Bacteria						
+ASV_1045	Bacteria						
+ASV_1047	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1046	Bacteria						
+ASV_1048	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1049	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_1050	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1051	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	
+ASV_1052	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Mycobacteriaceae	Mycobacterium	
+ASV_1053	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_1054	Bacteria						
+ASV_1056	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_1057	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1055	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_1058	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_1059	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_1060	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1061	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_1064	Archaea	Pacearchaeota	Pacearchaeota_Incertae_Sedis_AR13				
+ASV_1063	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_1062	Bacteria	Firmicutes					
+ASV_1065	Bacteria	Firmicutes	Clostridia	Clostridiales			
+ASV_1067	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_1066	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_1068	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Pseudonocardiaceae	Pseudonocardia	
+ASV_1069	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus_massiliensis
+ASV_1070	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae		
+ASV_1071	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_1072	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_1073	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_1074	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Colwelliaceae	Colwellia	Colwellia_psychrerythraea
+ASV_1075	Bacteria	Actinobacteria	Actinobacteria	Acidimicrobiales			
+ASV_1077	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1076	Bacteria	Proteobacteria					
+ASV_1078	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_1079	Bacteria	Proteobacteria	Gammaproteobacteria	Arenicellales	Arenicellaceae		
+ASV_1080	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhodobiaceae	Anderseniella	Anderseniella_baltica
+ASV_1081	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_1082	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	
+ASV_1085	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_1083	Bacteria	Acidobacteria	Acidobacteria_Gp10	Gp10			
+ASV_1084	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	
+ASV_1086	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1087	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	
+ASV_1089	Bacteria	Firmicutes					
+ASV_1088	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_1090	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_1092	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_1091	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_1093	Bacteria						
+ASV_1094	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1095	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Flammeovirgaceae		
+ASV_1097	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Maribacter	Maribacter_ulvicola
+ASV_1096	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1098	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flaviramulus	Flaviramulus_ichthyoenteri
+ASV_1099	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_1100	Bacteria	Chloroflexi	Caldilineae	Caldilineales	Caldilineaceae		
+ASV_1101	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales			
+ASV_1102	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1104	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_1103	Bacteria	Firmicutes					
+ASV_1106	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Eudoraea	Eudoraea_adriatica
+ASV_1105	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_1107	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Sandaracinaceae	Sandaracinus	Sandaracinus_amylolyticus
+ASV_1108	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_1109	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1110	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1111	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_1112	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1113	Bacteria						
+ASV_1114	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1115	Bacteria	Actinobacteria	Actinobacteria				
+ASV_1116	Bacteria						
+ASV_1117	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_1118	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Saprospiraceae		
+ASV_1119	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1120	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	
+ASV_1121	Bacteria	Hydrogenedentes					
+ASV_1122	Bacteria	Acidobacteria	Acidobacteria_Gp4				
+ASV_1123	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1125	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_1124	Bacteria						
+ASV_1127	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_1126	Bacteria						
+ASV_1128	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1129	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_1130	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_1131	Bacteria						
+ASV_1132	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_1133	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1135	Bacteria	Verrucomicrobia	Opitutae	Puniceicoccales	Puniceicoccaceae	Coraliomargarita	Coraliomargarita_akajimensis
+ASV_1134	Bacteria	Proteobacteria					
+ASV_1136	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Ectothiorhodospiraceae		
+ASV_1137	Bacteria	Proteobacteria	Gammaproteobacteria	Arenicellales	Arenicellaceae		
+ASV_1138	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_1139	Bacteria	Actinobacteria	Actinobacteria	Acidimicrobiales			
+ASV_1141	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_1142	Bacteria	Acidobacteria					
+ASV_1140	Bacteria						
+ASV_1143	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_1144	Bacteria	Proteobacteria					
+ASV_1146	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_1145	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_1147	Bacteria	Acidobacteria	Acidobacteria_Gp10				
+ASV_1148	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Flammeovirgaceae		
+ASV_1151	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1150	Bacteria	Proteobacteria					
+ASV_1149	Bacteria	Proteobacteria					
+ASV_1153	Bacteria						
+ASV_1152	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1155	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	
+ASV_1154	Bacteria	Proteobacteria					
+ASV_1156	Bacteria	Acidobacteria					
+ASV_1157	Bacteria	Firmicutes	Bacilli	Bacillales			
+ASV_1158	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1159	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1161	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_1160	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	
+ASV_1162	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_1163	Bacteria	Verrucomicrobia	Opitutae	Puniceicoccales	Puniceicoccaceae	Coraliomargarita	Coraliomargarita_akajimensis
+ASV_1166	Bacteria						
+ASV_1165	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_1164	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_1167	Bacteria						
+ASV_1169	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Aquimarina	
+ASV_1168	Bacteria	Proteobacteria					
+ASV_1170	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Ekhidna	Ekhidna_lutea
+ASV_1171	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Rhodothermaceae		
+ASV_1173	Bacteria	Ignavibacteriae	Ignavibacteria	Ignavibacteriales	Ignavibacteriaceae		
+ASV_1172	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales			
+ASV_1174	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1175	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales			
+ASV_1176	Bacteria	Acidobacteria	Acidobacteria_Gp9	Gp9			
+ASV_1177	Bacteria						
+ASV_1179	Bacteria	Acidobacteria	Acidobacteria_Gp16				
+ASV_1178	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_1180	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1181	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae		
+ASV_1182	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae		
+ASV_1183	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_1184	Bacteria	Verrucomicrobia	Opitutae	Puniceicoccales	Puniceicoccaceae	Coraliomargarita	Coraliomargarita_akajimensis
+ASV_1185	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_1186	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales			
+ASV_1187	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	
+ASV_1188	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Curvibacter	Curvibacter_gracilis
+ASV_1189	Bacteria	Verrucomicrobia					
+ASV_1191	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1190	Bacteria	Proteobacteria					
+ASV_1193	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_1192	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1195	Bacteria	Proteobacteria					
+ASV_1194	Bacteria	Proteobacteria					
+ASV_1196	Archaea	Pacearchaeota					
+ASV_1197	Bacteria						
+ASV_1198	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1199	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_1200	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1202	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1201	Bacteria	Acidobacteria					
+ASV_1203	Bacteria	Firmicutes					
+ASV_1205	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1204	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Aurantimonadaceae	Aureimonas	Aureimonas_jatrophae
+ASV_1206	Bacteria	Marinimicrobia	Marinimicrobia_genera_incertae_sedis				
+ASV_1207	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_1208	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia_dilworthii
+ASV_1209	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_1210	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1211	Bacteria	Acidobacteria	Acidobacteria_Gp10	Gp10			
+ASV_1212	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1213	Bacteria	Acidobacteria	Acidobacteria_Gp4	Gp4			
+ASV_1214	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1215	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_1217	Bacteria	Acidobacteria	Acidobacteria_Gp4	Gp4			
+ASV_1216	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_1218	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_1219	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Aminobacter	Aminobacter_aganoensis
+ASV_1221	Bacteria	Acidobacteria	Acidobacteria_Gp4	Gp4			
+ASV_1220	Bacteria	Acidobacteria	Acidobacteria_Gp9				
+ASV_1222	Bacteria	Acidobacteria					
+ASV_1223	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1224	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Colwelliaceae	Colwellia	
+ASV_1225	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Haliea	
+ASV_1226	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_1227	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_1228	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1229	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1230	Bacteria	Actinobacteria	Actinobacteria	Acidimicrobiales	Acidimicrobiaceae	Ilumatobacter	
+ASV_1231	Bacteria						
+ASV_1232	Bacteria						
+ASV_1233	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	
+ASV_1235	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1234	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_1237	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1236	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_1239	Bacteria	Proteobacteria					
+ASV_1240	Bacteria						
+ASV_1238	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1241	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_1244	Bacteria	Proteobacteria					
+ASV_1242	Bacteria						
+ASV_1243	Bacteria	Proteobacteria					
+ASV_1246	Bacteria						
+ASV_1245	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1247	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1248	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Haliangiaceae	Haliangium	Haliangium_ochraceum
+ASV_1250	Bacteria						
+ASV_1249	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_1251	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_1252	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	
+ASV_1253	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1254	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_1255	Bacteria						
+ASV_1256	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales			
+ASV_1257	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Flammeovirgaceae		
+ASV_1258	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_1259	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_1260	Bacteria	Proteobacteria	Alphaproteobacteria	Parvularculales	Parvularculaceae	Parvularcula	Parvularcula_bermudensis
+ASV_1261	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1262	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_1264	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1263	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_1265	Bacteria	Acidobacteria	Acidobacteria_Gp9				
+ASV_1266	Bacteria						
+ASV_1268	Bacteria	Bacteroidetes	Cytophagia	Cytophagales			
+ASV_1267	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_1269	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_1270	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1271	Bacteria						
+ASV_1272	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_1273	Bacteria						
+ASV_1274	Bacteria						
+ASV_1275	Bacteria	Proteobacteria					
+ASV_1276	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_1277	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_1278	Bacteria	Acidobacteria	Acidobacteria_Gp2				
+ASV_1279	Bacteria						
+ASV_1280	Bacteria	Acidobacteria	Acidobacteria_Gp16				
+ASV_1281	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_1282	Bacteria						
+ASV_1283	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	
+ASV_1284	Bacteria	Acidobacteria	Acidobacteria_Gp9	Gp9			
+ASV_1285	Bacteria						
+ASV_1286	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1287	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella	
+ASV_1288	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1289	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_1291	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Lacinutrix	Lacinutrix_algicola
+ASV_1290	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingorhabdus	Sphingorhabdus_flavimaris
+ASV_1294	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1292	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halomonas	Halomonas_ventosae
+ASV_1293	Bacteria						
+ASV_1295	Bacteria						
+ASV_1296	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Psychromonadaceae	Psychromonas	Psychromonas_kaikoae
+ASV_1297	Bacteria						
+ASV_1298	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Marinobacter	Marinobacter_salsuginis
+ASV_1299	Bacteria	Poribacteria					
+ASV_1301	Archaea	Euryarchaeota	Thermoplasmata	Methanomassiliicoccales	Methanomassiliicoccaceae	Methanomassiliicoccus	Methanomassiliicoccus_luminyensis
+ASV_1300	Bacteria						
+ASV_1302	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_1303	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Erythrobacter	
+ASV_1304	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1305	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_1306	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_1307	Bacteria	Acidobacteria	Acidobacteria_Gp10				
+ASV_1308	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_1309	Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosospira	
+ASV_1310	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_1311	Bacteria						
+ASV_1312	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Rhodothermaceae		
+ASV_1313	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_1314	Bacteria	Acidobacteria	Acidobacteria_Gp10				
+ASV_1315	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_1317	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1316	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1318	Bacteria						
+ASV_1319	Bacteria	Acidobacteria	Acidobacteria_Gp16				
+ASV_1320	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_1321	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_1322	Bacteria	Acidobacteria	Acidobacteria_Gp4				
+ASV_1323	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Cystobacteraceae	Anaeromyxobacter	Anaeromyxobacter_dehalogenans
+ASV_1324	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1325	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_1326	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_1327	Bacteria	Actinobacteria	Actinobacteria	Acidimicrobiales			
+ASV_1328	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_1330	Bacteria	Proteobacteria					
+ASV_1329	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_1331	Bacteria						
+ASV_1332	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_1334	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_1333	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_1335	Bacteria	Acidobacteria	Acidobacteria_Gp4				
+ASV_1336	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	
+ASV_1337	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1338	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_1339	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_1340	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_1341	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_1342	Bacteria						
+ASV_1343	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiales_incertae_sedis		
+ASV_1344	Bacteria	Firmicutes					
+ASV_1345	Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosospira	
+ASV_1346	Bacteria	Proteobacteria					
+ASV_1347	Bacteria	Acidobacteria	Acidobacteria_Gp9	Gp9			
+ASV_1350	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_1349	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae		
+ASV_1348	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1351	Bacteria	Proteobacteria					
+ASV_1354	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1352	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_1353	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	
+ASV_1355	Bacteria	Acidobacteria	Acidobacteria_Gp16				
+ASV_1357	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1358	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1356	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Polyangiaceae		
+ASV_1359	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1360	Bacteria						
+ASV_1361	Bacteria	Acidobacteria	Acidobacteria_Gp17	Gp17			
+ASV_1362	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_1363	Bacteria						
+ASV_1364	Bacteria						
+ASV_1367	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1368	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae		
+ASV_1366	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_1365	Bacteria	Acidobacteria	Acidobacteria_Gp22	Gp22			
+ASV_1370	Bacteria	Acidobacteria	Acidobacteria_Gp21				
+ASV_1369	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_1371	Bacteria						
+ASV_1372	Bacteria						
+ASV_1373	Bacteria	Acidobacteria	Acidobacteria_Gp16				
+ASV_1375	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_1374	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_1377	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_1376	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Jeotgalibacillus	Jeotgalibacillus_marinus
+ASV_1379	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Haliea	
+ASV_1380	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1381	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_1378	Bacteria	Proteobacteria					
+ASV_1382	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	Thioprofundum_hispidum
+ASV_1384	Bacteria	Acidobacteria					
+ASV_1385	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1386	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_1383	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1389	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Rhodothermaceae		
+ASV_1388	Bacteria	Poribacteria					
+ASV_1387	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_1390	Bacteria	Hydrogenedentes					
+ASV_1394	Bacteria	Proteobacteria	Gammaproteobacteria	Arenicellales	Arenicellaceae		
+ASV_1392	Bacteria						
+ASV_1393	Bacteria	Proteobacteria					
+ASV_1391	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_1396	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Haliangiaceae	Haliangium	Haliangium_ochraceum
+ASV_1397	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Devosia	
+ASV_1395	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_1398	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1399	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	
+ASV_1401	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1400	Bacteria	Acidobacteria	Acidobacteria_Gp9	Gp9			
+ASV_1402	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_1403	Bacteria	Firmicutes					
+ASV_1404	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_1405	Bacteria	Firmicutes	Clostridia				
+ASV_1409	Bacteria	Cyanobacteria/Chloroplast	Chloroplast	Chloroplast	Streptophyta		
+ASV_1407	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae_1	Clostridium_sensu_stricto	
+ASV_1408	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillales_Incertae_Sedis_X	Thermicanus	Thermicanus_aegyptius
+ASV_1406	Bacteria	Proteobacteria	Gammaproteobacteria	Methylococcales	Methylococcaceae		
+ASV_1413	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_1410	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Zunongwangia	Zunongwangia_profunda
+ASV_1412	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1411	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_1414	Archaea	Euryarchaeota					
+ASV_1415	Bacteria						
+ASV_1417	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	
+ASV_1418	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Flammeovirgaceae		
+ASV_1416	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales			
+ASV_1419	Bacteria	Proteobacteria					
+ASV_1420	Bacteria	Acidobacteria	Acidobacteria_Gp16				
+ASV_1422	Bacteria	Actinobacteria	Actinobacteria	Acidimicrobiales			
+ASV_1421	Bacteria	Acidobacteria	Acidobacteria_Gp10	Gp10			
+ASV_1423	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_1424	Bacteria	Acidobacteria	Acidobacteria_Gp10				
+ASV_1426	Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Nitrosomonadaceae	Nitrosospira	Nitrosospira_multiformis
+ASV_1425	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Planktomarina	Planktomarina_temperata
+ASV_1427	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_1428	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Colwelliaceae	Colwellia	Colwellia_rossensis
+ASV_1430	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1429	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Flammeovirgaceae		
+ASV_1431	Bacteria						
+ASV_1433	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae		
+ASV_1434	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1432	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_1435	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_1436	Bacteria	Actinobacteria	Actinobacteria	Acidimicrobiales			
+ASV_1437	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_1438	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Pirellula	Pirellula_staleyi
+ASV_1440	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Rhodopirellula	Rhodopirellula_lusitana
+ASV_1439	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1441	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_1442	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	
+ASV_1444	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae		
+ASV_1443	Bacteria	Actinobacteria	Actinobacteria				
+ASV_1445	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadales_incertae_sedis		
+ASV_1446	Bacteria	Proteobacteria	Gammaproteobacteria	Arenicellales	Arenicellaceae	Arenicella	Arenicella_xantha
+ASV_1448	Bacteria	Acidobacteria	Acidobacteria_Gp26				
+ASV_1447	Bacteria	Bacteroidetes	Cytophagia	Cytophagales			
+ASV_1449	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Gemmata	Gemmata_obscuriglobus
+ASV_1450	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Lutimonas	Lutimonas_halocynthiae
+ASV_1453	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_1451	Bacteria	Acidobacteria	Acidobacteria_Gp4				
+ASV_1454	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_1452	Bacteria	Proteobacteria					
+ASV_1456	Bacteria	Firmicutes					
+ASV_1458	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Gimesia	Gimesia_maris
+ASV_1457	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1455	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Oceanospirillaceae		
+ASV_1459	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Ahrensia	Ahrensia_kielensis
+ASV_1460	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae		
+ASV_1461	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_1462	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_1463	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Litorimonas	Litorimonas_taeanensis
+ASV_1464	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_1467	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	Desulfuromonadaceae		
+ASV_1466	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1468	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_1470	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1469	Bacteria	Proteobacteria					
+ASV_1465	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales			
+ASV_1471	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1474	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_1472	Bacteria						
+ASV_1473	Bacteria	Acidobacteria					
+ASV_1476	Bacteria	Firmicutes	Clostridia				
+ASV_1475	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1477	Bacteria	Actinobacteria	Actinobacteria	Solirubrobacterales			
+ASV_1479	Bacteria	Actinobacteria	Actinobacteria	Acidimicrobiales			
+ASV_1480	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales			
+ASV_1481	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1482	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_1478	Bacteria	Proteobacteria	Deltaproteobacteria				
+ASV_1483	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Polyangiaceae	Chondromyces	
+ASV_1484	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_1486	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae		
+ASV_1485	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1487	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae		
+ASV_1489	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales			
+ASV_1488	Bacteria	Proteobacteria					
+ASV_1490	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales			
+ASV_1492	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_1493	Bacteria						
+ASV_1491	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1494	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae		
+ASV_1495	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_1498	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_1497	Bacteria						
+ASV_1499	Bacteria						
+ASV_1500	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Gimesia	Gimesia_maris
+ASV_1496	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales			
+ASV_1502	Bacteria	Proteobacteria	Gammaproteobacteria				
+ASV_1503	Bacteria	Acidobacteria	Acidobacteria_Gp21				
+ASV_1505	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1506	Bacteria						
+ASV_1501	Bacteria						
+ASV_1504	Bacteria	Proteobacteria					
+ASV_1508	Bacteria						
+ASV_1507	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_1512	Bacteria	Firmicutes	Clostridia				
+ASV_1511	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_1510	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Mycobacteriaceae	Mycobacterium	Mycobacterium_paraense
+ASV_1514	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	
+ASV_1513	Bacteria	Acidobacteria	Acidobacteria_Gp16				
+ASV_1509	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales			
+ASV_1516	Bacteria						
+ASV_1515	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae		
+ASV_1517	Bacteria	Proteobacteria	Gammaproteobacteria	Chromatiales	Thioalkalispiraceae	Thioprofundum	
+ASV_1519	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1521	Bacteria	Acidobacteria					
+ASV_1520	Bacteria	Firmicutes	Clostridia				
+ASV_1518	Bacteria						
+ASV_1523	Bacteria	Acidobacteria					
+ASV_1522	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales			
+ASV_1525	Bacteria						
+ASV_1524	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira	
+ASV_1527	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1526	Bacteria						
+ASV_1528	Bacteria						
+ASV_1530	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Oceanibaculum	Oceanibaculum_pacificum
+ASV_1531	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	Nitrospina	
+ASV_1532	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_1529	Bacteria	Verrucomicrobia	Opitutae	Puniceicoccales	Puniceicoccaceae	Coraliomargarita	Coraliomargarita_akajimensis
+ASV_1533	Archaea	Thaumarchaeota	Nitrosopumilales	Nitrosopumilaceae	Nitrosopumilus		
+ASV_1534	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Cryomorphaceae		
+ASV_1536	Bacteria						
+ASV_1535	Bacteria	Firmicutes	Clostridia				
+ASV_1537	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_1539	Bacteria	Proteobacteria	Alphaproteobacteria				
+ASV_1538	Bacteria	Firmicutes					
+ASV_1541	Bacteria						
+ASV_1540	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Planctomycetaceae	Blastopirellula	Blastopirellula_cremea
+ASV_1542	Bacteria						
