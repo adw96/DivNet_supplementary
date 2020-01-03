@@ -1,7 +1,7 @@
 # Amy Willis, 2 Jan 2020
 # A script to create Figure 2 of the DivNet paper
 
-library(simulator) # this file was created under simulator version 0.2.0
+library(simulator) 
 library(devtools)
 library(magrittr)
 library(tidyverse)
@@ -19,6 +19,8 @@ library(DivNet)
 install_github("jarbel/Dep-GEM")
 library(DepGEM)
 
+library(phyloseq)
+
 ## Set up data -- this is how Mike Lee constructed the data
 
 # Begin Mike Lee's code
@@ -27,7 +29,6 @@ library(DepGEM)
 ## there is more detail presented if you follow along from the above page
 
 ### SETTING UP WORKING ENVIRONMENT; READING IN DATA
-library(phyloseq)
 count_tab <- read.table("ASV_counts.txt", header=T, row.names=1, check.names=F)
 tax_tab <- as.matrix(read.table("ASV_tax.txt", header=T, row.names=1, check.names=F, na.strings="", sep="\t"))
 sample_info_tab <- read.table("sample_info.txt", header=T, row.names=1, check.names=F)
@@ -85,17 +86,16 @@ my_w <- w_glassy_altered %>% otu_table %>% t %>% data.frame
 my_w %>% dim
 my_w %>% class
 my_w %>% apply(1, sum)
-which_zero_asvs <- which((my_w %>% apply(2, sum)) == 0)
+which((my_w %>% apply(2, sum)) == 0)
 
-my_x <- lm(rnorm(n) ~ duplicates %>% sample_data %$% char) %>% model.matrix
+my_x <- lm(rnorm(n) ~ w_glassy_altered %>% sample_data %$% char) %>% model.matrix
 colnames(my_x) <- c("intercept", "glassy")
 my_x
-
 
 # ASV_2 is the most abundant across all samples, and has all non-zero entries
 my_w[, "ASV_2"]
 which(my_w %>% colnames == "ASV_2") # index 608 
-tax_table(mike)["ASV_2",] # a Nitrospirae of Order Nitrospirales
+tax_table(w_glassy_altered)["ASV_2",] # a Nitrospirae of Order Nitrospirales
 
 
 ### PERTURBATIONS
@@ -107,7 +107,7 @@ for (i in 1:length(perturbations)) {
                                           X = my_x,
                                           perturbation = perturbations[i],
                                           base = which(my_w %>% colnames == "ASV_2"), 
-                                          ncores = 6,
+                                          ncores = 8,
                                           variance = "none")
 }
 
