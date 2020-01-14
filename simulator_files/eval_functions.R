@@ -33,6 +33,7 @@ mse_loss_shannon_lv <- new_metric("mse_loss_shannon_lv", "MSE for estimating one
 
 estimated_shannon <- new_metric("estimated_shannon", "estimated_shannon",
                                 metric = function(model, out) {
+                                  print(out)
                                   if (is.na(out$shannon) %>% any) {
                                     NA
                                   }
@@ -47,7 +48,10 @@ estimated_shannon <- new_metric("estimated_shannon", "estimated_shannon",
 
 true_shannon <- new_metric("true_shannon", "true_shannon",
                            metric = function(model, out) {
+                             print(out)
                              if (is.na(out$shannon) %>% any) {
+                               print("out$shannon:")
+                               print(out$shannon)
                                NA
                              }
                              else if ((model$shannon %>% length) != (out$shannon %>% length)) {
