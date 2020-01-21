@@ -12,18 +12,31 @@ divnet_6 <- new_method("divnet6", "DivNet 6",
                        })
 
 
+divnet_2 <- new_method("divnet2", "DivNet 2",
+                        method = function(model, draw) {
+                          output <- DivNet::divnet(W = draw, 
+                                                   X = model$my_x,
+                                                   variance="none", 
+                                                   base=1, 
+                                                   tuning=list("EMiter" = 2,
+                                                               "EMburn" = 1,
+                                                               "MCiter" = 500,
+                                                               "MCburn" = 250))
+                          list(shannon = output$shannon %>% summary %$% estimate)
+                        })
+
 divnet_20 <- new_method("divnet20", "DivNet 20",
-                       method = function(model, draw) {
-                         output <- DivNet::divnet(W = draw, 
-                                                  X = model$my_x,
-                                                  variance="none", 
-                                                  base=1, 
-                                                  tuning=list("EMiter" = 20,
-                                                              "EMburn" = 10,
-                                                              "MCiter" = 500,
-                                                              "MCburn" = 250))
-                         list(shannon = output$shannon %>% summary %$% estimate)
-                       })
+                        method = function(model, draw) {
+                          output <- DivNet::divnet(W = draw, 
+                                                   X = model$my_x,
+                                                   variance="none", 
+                                                   base=1, 
+                                                   tuning=list("EMiter" = 20,
+                                                               "EMburn" = 10,
+                                                               "MCiter" = 500,
+                                                               "MCburn" = 250))
+                          list(shannon = output$shannon %>% summary %$% estimate)
+                        })
 
 
 divnet_10 <- new_method("divnet10", "DivNet 10",

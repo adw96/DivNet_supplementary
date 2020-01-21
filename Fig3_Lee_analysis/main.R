@@ -148,6 +148,8 @@ get_simpson <- function(my_matrix) {
 arbel_bc <- apply(zz, 3, bray_curtis_true)
 arbel_euclidean <- apply(zz, 3, euclidean_true)
 
+apply(zz, 3, get_shannon) %>% c %>% plot # yep, converged
+
 arbel_tibb <- tibble("Estimate" = apply(zz, 3, get_shannon)[my_x[,"glassy"] == 1, ] %>% c, 
                      "Sample" = "Glassy", 
                      "Estimator" = "Arbel",
